@@ -32,8 +32,7 @@
     <p>
 
 
-![Ferris](images/ferris.gif)
-
+<img src="chemin/vers/images/ferris.gif" width="150">
 
 <br>
 
