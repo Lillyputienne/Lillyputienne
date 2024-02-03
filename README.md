@@ -13,7 +13,12 @@
   <br>
 
   <h2 align="left">Current projects</h2>
+  </p>
   I am currently working on my website and developing my skills in the front-end discipline.
+  </p>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Lillyputienne&show_icons=true&theme=jolly" />
+  </div>
   <br>
 
   <h2 align="left">Find me here</h2>
