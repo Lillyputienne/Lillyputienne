@@ -23,10 +23,10 @@
 
 
 <div align="center">
-    <h3 align="center">Find me here</h2>
-<p align="left">
-<a href="http://linkedin.com/in/lilly-duverger" target="blank"><img align="center" src="https://github.com/Lillyputienne/Lillyputienne/blob/main/images/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-</p>
+    <h2 align="center">Find me here</h2>
+    [My Linkedin](https://www.linkedin.com/in/lilly-duverger) :books:
+    
+[GitHub blog articles](https://github.blog/author/mishmanners/) :books:
 
 </div>
 <br>
