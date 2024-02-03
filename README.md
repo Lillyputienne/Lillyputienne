@@ -16,9 +16,11 @@
   I am currently working on my website and developing my skills in the front-end discipline.
   <br>
 
+  <div>
   <h2 align="left">Find me here</h2>
   [My Linkedin](https://www.linkedin.com/in/lilly-duverger) :books:
   <br>
+  </div>
 
   <div align="center">
     <img src="/images/ferris.gif" width="300">
