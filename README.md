@@ -6,7 +6,9 @@
 
 <div align="center">
     <h2 align="center">Languages used</h2>
+    <p>
     Here, you can see the languages I used in my public projects.
+    <p>
     <br>
 
 <div align="center">
