@@ -18,15 +18,14 @@
 <br>
 
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
-
-
-
-
+<iframe src="https://giphy.com/embed/26grASJLVQG7tg8wM" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/26grASJLVQG7tg8wM">via GIPHY</a></p>
 <br>
+
+
+
 <i>Widgets credits to
   [@anuraghazra](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#usage-2)</i>
-
+<br>
 
 
 
