@@ -26,8 +26,8 @@
   <a href="http://linkedin.com/in/lilly-duverger" target="blank"><img align="center" src="images/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
   </p>
   <br>
-  <br>
 
+  
   <div align="center">
     <img src="/images/ferris.gif" width="300">
   </div>
