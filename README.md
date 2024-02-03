@@ -16,15 +16,15 @@
   I am currently working on my website and developing my skills in the front-end discipline.
   <br>
 
-  <div>
   <h2 align="left">Find me here</h2>
   [My Linkedin](https://www.linkedin.com/in/lilly-duverger) :books:
   <br>
-  </div>
+  <br>
 
   <div align="center">
     <img src="/images/ferris.gif" width="300">
   </div>
+  <br>
   <br>
 
   <i>Widgets credits to [@anuraghazra](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#usage-2)</i>
