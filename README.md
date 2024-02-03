@@ -23,7 +23,6 @@
 
   <h2 align="left">Find me here</h2>
   </p>
-  ➡️
   <a href="http://linkedin.com/in/lilly-duverger" target="blank"><img align="center" src="images/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
   </p>
   <br>
