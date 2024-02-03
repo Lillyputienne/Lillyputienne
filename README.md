@@ -32,7 +32,7 @@
     <p>
 
 
-<img src="/images/ferris.gif" width="150">
+<img src="/images/ferris.gif" width="250">
 
 <br>
 
