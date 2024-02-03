@@ -27,7 +27,8 @@
 <div align="center">
     <h2 align="center">Find me here</h2>
     <p>
-    [![Logo LinkedIn](images/transparent-Linkedin-logo-icon.png)][My Linkedin](https://www.linkedin.com/in/lilly-duverger) :books:
+    [![Logo LinkedIn](images/transparent-Linkedin-logo-icon.png)]
+    [My Linkedin](https://www.linkedin.com/in/lilly-duverger) :books:
     <p>
 
 
