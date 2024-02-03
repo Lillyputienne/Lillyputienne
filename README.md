@@ -30,7 +30,6 @@
     <img src="/images/ferris.gif" width="300">
   </div>
   <br>
-  <br>
-
+  
   <i>Widgets credits to [@anuraghazra](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#usage-2)</i>
 </div>
