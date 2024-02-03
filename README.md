@@ -1,6 +1,6 @@
 <div align="center">
     <h2 align="center">Introduction</h2>
-    :wave: Hello, my name is Lilly. I am a bioinformatician learning data analysis and artificial intelligence. I am currently working in a company using artificial intelligence.
+    :wave: Hello, my name is Lilly. I am a bioinformatician learning data analysis and artificial intelligence. I am currently working as a data analyst in a company using IA
     <br>
 
 
@@ -13,6 +13,17 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lillyputienne&layout=compact&theme=jolly"
   />
+    <br>
+<div>
+
+<div align="center">
+    <h2 align="center">Current projects</h2>
+    I am currently working on my website and developing my skills in the front-end discipline.
+    <br>
+
+<p align="left">
+<a href="www.linkedin.com/in/lilly-duverger" target="blank"><img align="center" src="https://github.com/Lillyputienne/Lillyputienne/blob/main/images/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+</p>
 
 </div>
 <br>
@@ -20,7 +31,6 @@
 
 ![Ferris](images/ferris.gif)
 <br>
-
 
 
 <i>Widgets credits to
