@@ -30,10 +30,6 @@
     [My Linkedin](https://www.linkedin.com/in/lilly-duverger) :books:
     <p>
 
-<div>
-<img src="/images/ferris.gif" width="300">
-</div>
-
 
 <div>
     <img src="/images/ferris.gif" width="300">
