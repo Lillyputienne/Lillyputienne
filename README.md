@@ -26,13 +26,15 @@
 
 <div align="center">
     <h2 align="center">Find me here</h2>
+    <p>
     [![Logo LinkedIn](images/transparent-Linkedin-logo-icon.png)][My Linkedin](https://www.linkedin.com/in/lilly-duverger) :books:
-    <br>
+    <p>
 
 
 ![Ferris](images/ferris.gif)
-<br>
 
+
+<br>
 
 <i>Widgets credits to
   [@anuraghazra](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#usage-2)</i>
