@@ -21,8 +21,11 @@
     I am currently working on my website and developing my skills in the front-end discipline.
     <br>
 
+
+<div align="center">
+    <h3 align="center">Find me here</h2>
 <p align="left">
-<a href="www.linkedin.com/in/lilly-duverger" target="blank"><img align="center" src="https://github.com/Lillyputienne/Lillyputienne/blob/main/images/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+<a href="http://linkedin.com/in/lilly-duverger" target="blank"><img align="center" src="https://github.com/Lillyputienne/Lillyputienne/blob/main/images/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 </p>
 
 </div>
