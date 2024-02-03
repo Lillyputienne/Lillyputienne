@@ -9,7 +9,7 @@
     <p>
     Here, you can see the languages I used in my public projects.
     <p>
-    <br>
+    <div>
 
 <div align="center">
   <img
