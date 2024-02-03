@@ -6,7 +6,17 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Lillyputienne&theme=jolly" alt="GitHub Streak" /></a>
 
 
+</div>
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lillyputienne&layout=compact&theme=jolly"
+  />
+</div>
 
+
+<i>Widgets credits to
+  [@anuraghazra](https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#usage-2)</i>
+<br>
 
 
 
