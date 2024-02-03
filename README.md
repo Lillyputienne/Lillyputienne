@@ -3,7 +3,7 @@
   Hello, my name is Lilly. I am a bioinformatician learning data analysis and artificial intelligence.
   <br>
 
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Lillyputienne&theme=jolly" alt="GitHub Streak" /></a>
 
 
 
