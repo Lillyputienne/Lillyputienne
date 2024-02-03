@@ -8,7 +8,7 @@
     Here, you can see the languages I used in my public projects.
   </p>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lillyputienne&layout=compact&theme=ambient_gradient " />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lillyputienne&layout=compact&theme=omni" />
   </div>
   <br>
 
@@ -17,7 +17,7 @@
   I am currently working on my website and developing my skills in the front-end discipline.
   </p>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lillyputienne&show_icons=true&theme=ambient_gradient " />
+    <img src="https://github-readme-stats.vercel.app/api?username=Lillyputienne&show_icons=true&theme=omni" />
   </div>
   <br>
 
