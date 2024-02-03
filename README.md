@@ -1,6 +1,6 @@
 <div>
   <h2 align="left">Introduction</h2>
-  :wave: Hello, my name is Lilly. I am a bioinformatician learning data analysis and artificial intelligence. I am currently working as a data analyst in a company using IA
+  👋 Hello, my name is Lilly. I am a bioinformatician learning data analysis and artificial intelligence. I am currently working as a data analyst in a company using IA
   <br>
 
   <h2 align="left">Languages used</h2>
